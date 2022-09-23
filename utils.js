@@ -11,7 +11,15 @@ server.listen(port, (err) => {
     if (err) {
         console.log('server wrong');
     }
+<<<<<<< HEAD
     console.log("fsdgdfghgjhgjjggdhghfjhgf");
 });
 
 console.log("wpis z main");
+=======
+    console.log("fsdgdfgdf");
+});
+
+
+console.log("zmiana w nowa");
+>>>>>>> nowa
