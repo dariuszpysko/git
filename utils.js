@@ -21,5 +21,5 @@ console.log("wpis z main");
 });
 
 
-console.log("zmiana w nowa");
+console.log("zmiana w nowa z githuba");
 >>>>>>> nowa
