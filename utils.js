@@ -13,3 +13,6 @@ server.listen(port, (err) => {
     }
     console.log("fsdgdfgdf");
 });
+
+
+console.log("zmiana w nowa");
