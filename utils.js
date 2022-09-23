@@ -14,4 +14,4 @@ server.listen(port, (err) => {
     console.log("fsdgdfghgjhgjjggdhghfjhgf");
 });
 
-console.log("fsdfs100000");
+console.log("wpis z main");
